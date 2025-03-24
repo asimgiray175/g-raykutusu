@@ -1,10 +1,10 @@
 meme_sozlugu = {
-            "CRINGE": "Garip ya da utandırıcı bir şey",
+            "HAY DAAAA": "Garip ya da utandırıcı bir şey",
             "LOL": "Komik bir şeye verilen cevap",
-            "ROFL": "ROFL bir şakaya karşılıktır, LOL gibidir"
+            "KAHKİHKOH" bir şakaya karşılıktır, LOL gibidir"
             }
 
-word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!): ")
+word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!):HEBELE HÜBELE ")
 
 if kelime in meme_sozlugu.keys():
     print(meme_sozlugu[kelime])
